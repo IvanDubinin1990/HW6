@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         //1. Сделать так, чтобы нижний sout выводил true. Для этого используйте логические операторы вместо ...
         System.out.println(5 < 10);
         //2. Сделать так, чтобы нижний sout выводил false. Для этого используйте логические операторы вместо ...
@@ -12,5 +13,6 @@ public class Main {
         System.out.println(false || true);
         //6. Сделать так, чтобы нижний sout выводил false. Для этого используйте логические операторы вместо ...
         System.out.println(true && false);
+
     }
 }
